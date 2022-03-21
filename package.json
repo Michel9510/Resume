@@ -1,15 +1,14 @@
 {
-  "name": "package.json",
+  "name": "michel809-resume",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing ",
   "main": "index.js",
   "scripts": {
     "test": "ISC"
   },
   "author": "",
-  "license": "ISC"
-}
-
-"bin": {
+  "license": "ISC",
+  "bin": {
     "resume-me": "./index.js"
-  },
+  }
+}
